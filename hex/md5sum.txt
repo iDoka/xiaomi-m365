@@ -1,0 +1,12 @@
+8270cd36c8e1a15ae14a5d82e56e3fe3  BLE_073_purple_v06.bin
+381cf47aa2b3f5d5837e18be731a9dcf  BLE_073_purple_v06.txt
+dbffedd116b06812ad2137af29908e5d  BLE_073_purpleV1.2_v06.bin
+c3270c1db7242803b35101f04277db7b  BLE_073_purpleV1.2_v06.txt
+fdba167f408602438d03febc902c231f  BLE_074_purple_v06.bin
+2ce129b5ad8363eb6c5e92c751319762  BLE_074_purple_v06.txt
+0ad74714cb4c092bb0c282fb7d60bee1  classic073_flash.hex
+65894825bf7e32c1d52f2a0641fa67cd  classic_BLE_073_V06.bin
+b8f2f487ab5d780a28f51ea90eabb597  classic_BLE_073_V06.txt
+509b1397f2fd92a4b4ac0b9a00f03ece  pro074_flash.hex
+2a167b7c58e0c162bd074a1872eac4ae  pro_BLE_074_v06.1.bin
+850e787bdc3df8c00914c3f5c53e4333  pro_BLE_074_v06.1.txt

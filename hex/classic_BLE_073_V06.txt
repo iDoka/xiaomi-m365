@@ -1,0 +1,7 @@
+dev: M365;
+nam: BLE_073_v06;
+enc: N;
+typ: BLE;
+md5: 65894825bf7e32c1d52f2a0641fa67cd;
+
+ 

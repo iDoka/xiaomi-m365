@@ -1,0 +1,7 @@
+dev: M365;
+nam: BLE_074_purple_v06;
+enc: N;
+typ: BLE;
+md5: fdba167f408602438d03febc902c231f;
+
+ 
